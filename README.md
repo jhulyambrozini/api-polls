@@ -46,5 +46,5 @@ Uma plataforma de software que simplifica o processo de criação, implantação
 - 3 Abra seu terminal e navegue até a pasta do projeto
 - 4 Rode o commando `npm i` ou `npm install` para baixar as dependências
 - 5 Abra seu Docker Desktop
-- 6 Rode o comando `docker compose up -d` para iniciar os banco de dados no docker
+- 6 Rode o comando `docker compose up -d` para iniciar os bancos de dados no docker
 - 7 Rode o commando `npm run dev` para iniciar a API em modo de desenvolvimmento
