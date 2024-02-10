@@ -1,5 +1,5 @@
 # API POLLS
-Este prjeto foi feito durante a NLW Expert da Rocketseat na trilha com foco em back end com Node.js
+Este projeto foi feito durante a NLW Expert da Rocketseat na trilha com foco em back end com Node.js
 
 Ele consiste em uma API para equetes, que possui as rotas HTTP de:
 - Criar uma enquete (POST: /polls)
